@@ -1,4 +1,4 @@
-# SQL-Project-Bee-Cycle
+# SQL Query: Bee-Cycle Sales Analysis
 
 Bee-Cycle is a bicycle manufacturing company. There are 4 product categories:
 - Bikes (eg Touring, Mountain, etc)
